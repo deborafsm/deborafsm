@@ -15,4 +15,6 @@ Systems Analyst 🚀
 - [Databases] 🎲 - MySQL, SQL
 
 [![Top ](https://github-readme-stats.vercel.app/api/top-langs/?username=deborafsm&layout=compact)](https://github.com/deborafsm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborafsm&langs_count=8)](https://github.com/deborafsm/github-readme-stats)
+
 
