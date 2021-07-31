@@ -16,4 +16,5 @@ Systems Analyst 🚀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborafsm&langs_count=8)](https://github.com/deborafsm/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/deborafsm/github-readme-stats)
 
