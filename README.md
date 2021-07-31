@@ -8,6 +8,6 @@ I'm a {IT assistant} 👩‍💻 ).
 ## Objetive 
 Systems Analyst 🚀
 
-- I'm  learning
+## I'm  learning
 - [Programming languages] 📚 - Java, C#, JavaScript, HTML, CSS
 - [Databases] 🎲 - MySQL, SQL
