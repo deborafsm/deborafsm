@@ -14,5 +14,5 @@ Systems Analyst 🚀
 - [Programming languages] 📚 - Java, C#, JavaScript, HTML, CSS
 - [Databases] 🎲 - MySQL, SQL
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborafsm&layout=compact)](https://github.com/deborafsm/github-readme-stats)
+[![Top ](https://github-readme-stats.vercel.app/api/top-langs/?username=deborafsm&layout=compact)](https://github.com/deborafsm/github-readme-stats)
 
