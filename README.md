@@ -16,4 +16,3 @@ Systems Analyst 🚀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborafsm&layout=compact)](https://github.com/deborafsm/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborafsm&show_icons=true&theme=radical)
