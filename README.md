@@ -5,6 +5,7 @@
 
 ### Course
 ETEC - Desenvolvimento de Sistemas🎓
+FAM - Studying systems analysis and development 📚
 ### About me
 I'm a {IT assistant} 👩🏻‍💻 ).
 ## Objetive 
