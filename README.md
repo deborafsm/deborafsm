@@ -4,8 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmfs/)](https://www.linkedin.com/in/dmfs/	)
 
 ### Course
-ETEC - Desenvolvimento de Sistemas🎓
-FAM - Studying systems analysis and development 📚
+- ETEC - Desenvolvimento de Sistemas🎓
+- FAM - Studying systems analysis and development 📚
 ### About me
 I'm a {IT assistant} 👩🏻‍💻 ).
 ## Objetive 
