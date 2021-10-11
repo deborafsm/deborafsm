@@ -7,7 +7,7 @@
 - ETEC - Desenvolvimento de Sistemas🎓
 - FAM - Studying systems analysis and development 📚
 ### About me
-I'm a {Systems Analyst JR} 👩🏻‍💻 🚀).
+I'm a (Systems Analyst 👩🏻‍💻 🚀).
 ## Objetive 
 ⭐⭐⭐⭐⭐
 ## I'm  learning
