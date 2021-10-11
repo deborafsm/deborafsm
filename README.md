@@ -7,10 +7,9 @@
 - ETEC - Desenvolvimento de Sistemas🎓
 - FAM - Studying systems analysis and development 📚
 ### About me
-I'm a {IT assistant} 👩🏻‍💻 ).
+I'm a {Systems Analyst JR} 👩🏻‍💻 🚀).
 ## Objetive 
-Systems Analyst 🚀
-
+⭐⭐⭐⭐⭐
 ## I'm  learning
 - [Programming languages] 📚 - Java, C#, JavaScript, HTML, CSS
 - [Databases] 🎲 - MySQL, SQL
