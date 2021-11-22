@@ -15,3 +15,5 @@ I'm a (Systems Analyst 👩🏻‍💻 🚀).
 - [Databases] 🎲 - MySQL, SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborafsm)](https://github.com/deborafsm/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deborafsm)](https://github.com/anuraghazra/github-readme-stats)
+
