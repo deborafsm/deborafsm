@@ -3,7 +3,7 @@
 
 
 ### Course
-  - Studying systems analysis and development 📚
+  - Systems analysis and development 📚
 ### About me
 I'm a (Systems Analyst 👩🏻‍💻 🚀).
 
