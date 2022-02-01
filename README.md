@@ -6,12 +6,10 @@
 
 
 ### Course
-- ETEC - Desenvolvimento de Sistemas🎓
-- FAM - Studying systems analysis and development 📚
+  - Studying systems analysis and development 📚
 ### About me
 I'm a (Systems Analyst 👩🏻‍💻 🚀).
-## Objetive 
-⭐⭐⭐⭐⭐
+
 ## I'm  learning
 - [Programming languages] 📚 - Java, C#, JavaScript, HTML, CSS
 - [Databases] 🎲 - MySQL, SQL
