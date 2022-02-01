@@ -2,9 +2,6 @@
 # わたしの なまえは デボラ です  !
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/deborafsm)](https://github.com/deborafsm)
-
-
 ### Course
   - Studying systems analysis and development 📚
 ### About me
