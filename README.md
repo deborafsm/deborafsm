@@ -1,15 +1,14 @@
-# はじめまして
-# わたしの なまえは デボラ です  !
+よぉ! デボラ
 
+### Sobre mim
+
+I'm a (Systems Analyst 👩🏻‍💻 🚀).
 
 ### Course
   - Systems analysis and development 📚
-### About me
-I'm a (Systems Analyst 👩🏻‍💻 🚀).
 
 ## I'm  learning
-- [Programming languages] 📚 - Java, C#, JavaScript, HTML, CSS
-- [Databases] 🎲 - MySQL, SQL
+-  TypeScript, JavaScript and React
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborafsm&layout=demo)](https://github.com/deborafsm/github-readme-stats)
