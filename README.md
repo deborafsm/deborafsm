@@ -1,5 +1,5 @@
 <h1 align="center">Débora!</h1>
-<h3 align="center">Hunter Front-End INF LOV jp++</h3>
+<h3 align="center">Hunter Front-End VS INFTY LV JPN </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
