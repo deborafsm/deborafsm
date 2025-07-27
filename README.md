@@ -6,7 +6,7 @@
 ---
 
 ## 🧙 Sobre Mim
-
+Eterna aprendiz apaixonada por tecnologia, amante da leitura, criadora de mundos épicos, codificadora e fã de power metal.
 
 🎓 Transição da infraestrutura para o desenvolvimento  
 🧠 Estudando e criando com: **Java (Spring Boot), Angular, PHP (Laravel), React, MySQL**  
