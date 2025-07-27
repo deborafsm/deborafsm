@@ -1,4 +1,4 @@
-<h1 align="center">🧝‍♀️ Débora Freire • Codificadora dos Reinos Perdidos 🗡️</h1>
+<h1 align="center">🧝🏻‍♀️ Débora Freire • Codificadora dos Reinos Perdidos 🗡️</h1>
 <p align="center">
   <em>“Entre sombras, redes e feitiços, tracei meu caminho até o desenvolvimento.”</em>  
 </p>
