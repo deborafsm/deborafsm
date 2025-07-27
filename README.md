@@ -1,11 +1,12 @@
 <h1 align="center">🧝🏻‍♀️ Débora Freire • Codificadora dos Reinos Perdidos 🗡️</h1>
 <p align="center">
-  <em>“Entre sombras, redes e feitiços, tracei meu caminho até o desenvolvimento.”</em>  
+  <em>“"Lá e de volta outra vez".J.R.R. Tolkien”</em>  
 </p>
 
 ---
 
 ## 🧙 Sobre Mim
+
 
 🎓 Transição da infraestrutura para o desenvolvimento  
 🧠 Estudando e criando com: **Java (Spring Boot), Angular, PHP (Laravel), React, MySQL**  
