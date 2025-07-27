@@ -34,7 +34,7 @@ Eterna aprendiz apaixonada por tecnologia, amante da leitura, criadora de mundos
 > Aqui habita o **Codex das Criaturas Épicas**  
 > Uma API mágica onde criaturas fantásticas são invocadas por meio de códigos sagrados.  
 > Feito em Java + Angular + MySQL.  
-> 🔮 "Eu vivo minha vida com esperança, sempre esperança, de que o futuro será melhor do que o presente, mas apenas enquanto eu trabalhar para que isso aconteça.”.
+> 🔮 "Eu vivo minha vida com esperança, sempre esperança, de que o futuro será melhor do que o presente, mas apenas enquanto eu trabalhar para que isso aconteça.”. <br/>
 > 📜 (https://github.com/deborafsm/codex-epico_api).
 
 ---
